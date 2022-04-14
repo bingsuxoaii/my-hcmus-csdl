@@ -1,5 +1,6 @@
 # my-hcmus-csdl
 **BÀI TẬP TH CSDL**
+
 W1: Giới thiệu SSMS + tạo csdl, nhập liệu (với giao diện)
 
 W2: Tạo csdl + nhập liệu (script) 
